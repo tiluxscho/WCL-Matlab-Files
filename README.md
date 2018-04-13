@@ -5,7 +5,7 @@ This repository features the Matlab source codes employed in [1]. Please note th
 3. ''PD_prob_false_alam_versus_lambda()'': This function can be executed in Matlab to verify [1, Fig. 4].   
 4.  ''CROC_simulation_for_PD()'': This function can be executed in Matlab to verify [1, Fig. 5].  
 
-At last, please note that all the uploaded functions shall be, first, downloaded to the same folder (in Matlab) prior to the execution the afore-listed Matlab functions.   
+At last, please note that all the uploaded functions shall be, first, downloaded to the same folder (in Matlab) prior to the execution of the afore-listed Matlab functions.   
 
 Reference: 
 
